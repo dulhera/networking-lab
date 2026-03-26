@@ -1,2 +1,4 @@
-Devices Used
-DeviceModelRoleCore Gateway RouterCisco 1841Central routerSwitch0Cisco 2960-24TTLAN switchFinance Manager WorkstationPC-PTAllowed clientIntern WorkstationPC-PTBlocked clientInternal File ServerServer-PTProtected server
+# 🌐 Cisco Networking Labs
+
+Hands-on networking labs built using Cisco Packet Tracer.  
+Covers CCNA-level topics including ACLs, DHCP, VLANs, Routing Protocols, BGP, NAT and E.T.C.
