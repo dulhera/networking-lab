@@ -1,1 +1,2 @@
-# networking-lab
+Devices Used
+DeviceModelRoleCore Gateway RouterCisco 1841Central routerSwitch0Cisco 2960-24TTLAN switchFinance Manager WorkstationPC-PTAllowed clientIntern WorkstationPC-PTBlocked clientInternal File ServerServer-PTProtected server
